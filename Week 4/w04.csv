@@ -1,0 +1,8 @@
+student_id, f_name, l_name, email, gpa
+'00001', 'Tim', 'Smith', 'smith515@usf.edu', 4.0
+'00002', 'John', 'Jones', 'jjones@somewhere.com', 3.0
+'00003', 'Jane', 'Williams', 'jane@somewhere.com', 3.5
+'00004', 'Betty', 'Johnson', 'bjohn@somewhere.com', 2.2
+'00005', 'Jim', 'Bean', 'jbean@somewhere.com', 3.1
+'00006', 'Frank', 'Gambali', 'frankg@somewhere.com', 2.7
+'00007', 'Judy', 'Garland', 'judy@somewhere.com', 3.9
